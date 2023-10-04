@@ -30,9 +30,9 @@ We also shared [this story pack](https://docs.google.com/document/d/1vH5M6n6HSlj
 
 The story appeared on England BBC News homepages as well as on BBC local radio stations.
 The Shared Data Unit also makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association.
-It was used by more than 15 outlets in our wider partner network, including:
+It was used by more than 20 outlets in our wider partner network, including:
 
--   North Devon Gazette: [Police commissioner calls for vigilance over power thefts](https://www.northdevongazette.co.uk/news/local-news/1312298/police-commissioner-calls-for-vigilance-over-power-theft.html)
--   Rochdale Online: [Reports of electricity theft soar by 50% in a decade](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/153520/reports-of-electricity-theft-soar-by-50pc-in-a-decade)
--   Northern Echo: [Electricity theft increased in Durham and North Yorkshire](https://www.thenorthernecho.co.uk/news/23821464.electricity-theft-increased-durham-north-yorkshire/)
--   Wrexham Leader: [Electricity thefts double across North Wales since 2012/13](https://www.thenorthernecho.co.uk/news/23821464.electricity-theft-increased-durham-north-yorkshire/)
+-   North Devon Gazette: [Police commissioner calls for vigilance over power thefts](https://www.northdevongazette.co.uk/news/local-news/1312298/police-commissioner-calls-for-vigilance-over-power-theft.html) 2 October 2023
+-   Rochdale Online: [Reports of electricity theft soar by 50% in a decade](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/153520/reports-of-electricity-theft-soar-by-50pc-in-a-decade) 29 September 2023
+-   Northern Echo: [Electricity theft increased in Durham and North Yorkshire](https://www.thenorthernecho.co.uk/news/23821464.electricity-theft-increased-durham-north-yorkshire/) 29 September 2023
+-   Wrexham Leader: [Electricity thefts double across North Wales since 2012/13](https://www.thenorthernecho.co.uk/news/23821464.electricity-theft-increased-durham-north-yorkshire/) 3 October 2023
